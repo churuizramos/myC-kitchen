@@ -14,4 +14,4 @@ Using C and more advanced printf() commands with the introduction of tab spaces 
 3. User unputs a currency amount for this selected currency.
 4. The currency choice goes into a switch that corresponds with the starting currency.
 5. Within the corresponding currency, the program uses the inputted amount to convert into and save the output variables for each currency.
-6. The values are displayed back to the user. 
+6. The values are displayed back to the user.
